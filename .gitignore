@@ -1,0 +1,10 @@
+
+data/
+*.mp4
+*.avi
+*.mov
+*.keras
+*.h5
+*.tflite
+.env
+__pycache__/
